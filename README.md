@@ -1,4 +1,5 @@
-# IPL_2022_tweets_sentiment_analysis
+# IPL_2022_tweets_sentiment_analysis.
+
 Sentiment Analysis of IPL-2022 Twitter dataset using Vader Sentiment Analyzer
 It uses nltk library for the generation of stopwords and preparing wordcloud
 
